@@ -11,37 +11,103 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Boise State University, 2012 - 2020
+* M.S. in Computer Science, Boise State University, 2020 - 2021
+* Ph.D in Human-Centric Artificial Intelligence, TU Delft, 2021 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2015 - March 2018: Software Engineer at ReplyPro
+  * Developed, managed, and maintained a Postgres database, a Django Rest API, as well as mobile & web applications
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2017 - January 2020: Software Engineer at Art of Visuals
+  * Developed, managed, and maintained Postgres databases, EC2 instances, S3 buckets, Django REST APIs and documentation
+
+* July 2019 - May 2020: Software Developer at Aska Lokal
+  * Traced and repaired bugs in application
+  * Developed expansions to the API supporting the mobile application
+
+* January 2020 - May 2020: Undergraduate Research Assistant
+  * Participated in development of the Child Adaptive Search Tool (CAST)
+  * Experienced the research process through re-implementing past works
+
+* May 2020 - December 2021: Graduate Research Assistant
+  * Collaborated with an interdisciplinary research team developing the Child Adaptive Search Tool (CAST)
+  * Researched and developed Information Retrieval tools for the educational domain
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Java
+  * JavaScript
+  * C
+  * PHP
+  * Bash
+  * Swift
+* Algorithm and Data Manipulation
+  * Numpy
+  * Sklearn
+  * NLTK
+  * Spacy
+  * PyTorch
+  * Tensorflow
+  * Keras
+  * Huggingface
+  * RankLib
+  * Flair
+  * H2O
+  * NetworkX
+* Text Representation
+  * Word Embeddings (Edu2Vec, FastText, GloVe)
+  * BERT
+  * TF-IDF
+* Architectures
+  * GRU
+  * Transformers
+  * Neural Networks (Convolutional, Recurrent, Multi-Layer)
+  * LSTM
+  * Attention Models
+* Data Management
+  * Pandas
+  * PostgreSQL
+  * MySQL/MariaDB
+  * Redis
+  * MongoDB
+* Data Visualization
+  * Seaborn
+  * MatPlotLib
+  * d3.js
+* Web & Mobile Development
+  * Django
+  * Bootstrap
+  * Ionic
+  * VueJS
+  * AngularJS
+  * ReactJS
+  * Flask
+* Cloud Management
+  * AWS S3
+  * AWS EC2
+  * Heroku
+* Environments & Containerization
+  * PyCharm
+  * Jupyter
+  * Vagrant
+  * Anaconda
+  * Docker
+  * AndroidStudio
+  * XCode
+* Miscellaneous
+  * Git
+  * LATEX
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -56,4 +122,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
