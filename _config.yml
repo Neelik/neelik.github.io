@@ -84,9 +84,9 @@ author:
   avatar           : "garrett.allen.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Delft, South Holland, Netherlands"
-  employer         : "TU Delft"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=4BtK3WgAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,11 +102,11 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/garrett-m-allen"
+  linkedin         : "garrett-m-allen"
   orcid            : "https://orcid.org/0000-0003-4449-1510"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/1597697/gallen"
+  stackoverflow    : "1597697/gallen"
   steam            :
   tumblr           :
   twitter          : "N33lik"
