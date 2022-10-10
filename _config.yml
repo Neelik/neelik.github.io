@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Garrett Allen"
   avatar           : "garrett.allen.png"
-  bio              : "Researcher interested in the intersection of AI/ML, IR, NLP, HCI, and Education."
+  bio              : "Ph.D. researcher interested in the intersection of AI/ML, IR, NLP, HCI, Design, and Education."
   location         : "Delft, South Holland, Netherlands"
-  employer         : 
+  employer         : "Delft University of Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=4BtK3WgAAAAJ"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=GCpR72UAAAAJ"
+  email            : "G.M.Allen@tudelft.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
