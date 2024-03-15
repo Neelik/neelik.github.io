@@ -4,7 +4,7 @@ collection: teaching
 type: "MSc course"
 permalink: /teaching/2022-fall-faip-tud
 venue: "TU Delft"
-date: 2023-09-01
+date: 2022-09-01
 location: "Delft, Netherlands"
 role: "Teaching Assistant"
 ---
